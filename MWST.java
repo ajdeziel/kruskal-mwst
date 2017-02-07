@@ -1,9 +1,5 @@
 /* MWST.java
-   CSC 226 - Fall 2016
-   Assignment 3 - Minimum Weight Spanning Tree
    Author: AJ Po-Deziel
-   UVic ID: V00815622
-   Submission date: 2016-11-08
 
    Template originally created by Bill Bird, 08/02/2014.
    
